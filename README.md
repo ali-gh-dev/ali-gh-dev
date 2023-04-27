@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali-gh-developer
 - 👀 I’m interested in programming with :  python, django, javascript
-- 🌱 I’m currently learning : web-crawling
+- 🌱 I’m currently learning : scrapy
 
 
 <!---
