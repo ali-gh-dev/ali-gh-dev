@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ali-gh-developer
-- 👀 I’m interested in programming with :  python, django, javascript
+- 👀 I’m interested in programming with :  python, django, javascript , php , wordpress
 - 🌱 I’m currently learning : wordpress - php
 
 
