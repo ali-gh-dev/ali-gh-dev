@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali-gh-dev
 - 👀 I’m interested in programming with :  python, django, javascript , php , wordpress
-- 🌱 I’m currently learning : wordpress - php
+- 🌱 I’m currently learning : wordpress - php - css
 
 
 <!---
